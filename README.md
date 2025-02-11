@@ -99,3 +99,7 @@ CPT: For medical procedures and services.
 RxNorm: For medication codes.
 
 MedDRA: For adverse event reporting.
+
+
+For questions or suggestions, please contact:
+Priyanka Reddy Kuta : preddykuta@gmail.com
